@@ -1,0 +1,19 @@
+Hier sind noch einmal die wichtigsten Punkte zum Versuch auf einen Blick zusammengefasst:
+
+1. Du steuerst einen Vogel, der sich über eine von drei Flugbahnen bewegt
+
+2. Der Vogel wird bei seinem Flug von einem zufälligen Wind beeinträchtigt
+
+3. Nutze das Mausrad, um gegen den Wind anzuhalten, damit der Vogel nicht von seiner Bahn abkommt
+
+4. Weiche dem Hindernis auf der mittleren Bahn durch einen Sprung aus, indem Du Deine Maus nach vorne bzw. nach hinten bewegst
+
+5. Du kannst erst nach den zwei Hindernissen auf der oberen bzw. unteren Bahn springen
+
+6. Dreht sich der Vogel in eine bestimmte Richtung, so benötigt der Sprung in diese Drehrichtung eine kürzere Mausbewegung
+
+7. Ein Sprung entgegen der Drehrichtung benötigt eine längere Mausbewegung
+
+8. Sammle so viele Punkte wie möglich durch das Einsammeln der Sterne!
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

@@ -1,0 +1,58 @@
+library(dplyr)
+
+# practice
+trial <- c(1:24, 1:24, 1:24,
+           1:24)
+block <- c(rep(0, times = 24), rep(0, times = 24), rep(0, times = 24),
+           rep(0, times = 24))
+subblock <- c(rep(1, times = 24), rep(2, times = 24), rep(3, times = 24),
+                rep(4, times = 24))
+dependence <- rep(c(rep(1, times = 24), rep(-1, times = 24)), times = 2)
+pertur_strength <- rep(1.375, times = 96)
+reward_upper <- rep(0, times = 96)
+reward_upper <- rep(c(30, 70), times = 48)
+reward_lower <- rep(0, times = 96)
+reward_lower <- rep(c(70, 30), times = 48)
+pert_direct <- c(rep(0, times = 12), rep(1, times = 12), rep(0, times = 12), rep(1, times = 12),
+                 rep(0, times = 12), rep(1, times = 12), rep(0, times = 12), rep(1, times = 12))
+training <- rep(1, times = 96)
+preview <- c(rep("long", times = 48), rep("short", times = 48))
+last_change <- rep(c(rep(1, times = 24*0.25), rep(0, times = 24*0.75)), times = 4)
+
+
+practice_conditions <- cbind(trial, block, subblock, dependence, pertur_strength, reward_upper, 
+                             reward_lower, pert_direct, training, preview, last_change)
+
+# experimental
+trial <- rep(1:80, times = 8)
+block <- c(rep(1, times = 80), rep(1, times = 80), rep(2, times = 80), rep(2, times = 80),
+              rep(3, times = 80), rep(3, times = 80), rep(4, times = 80), rep(4, times = 80))
+subblock <- c(rep(1, times = 80), rep(2, times = 80), rep(1, times = 80), rep(2, times = 80),
+              rep(1, times = 80), rep(2, times = 80), rep(1, times = 80), rep(2, times = 80))
+dependence <- c(rep(1, times = 80),  rep(1, times = 80), rep(1, times = 80),  rep(1, times = 80),
+                rep(-1, times = 80),  rep(-1, times = 80), rep(-1, times = 80),  rep(-1, times = 80))
+pertur_strength <- rep(1.375, times = 640)
+reward_upper <- rep(c(rep(c(30, 70), times = 20)), times = 8)
+reward_lower <- rep(c(rep(c(70, 30), times = 20)), times = 8)
+pert_direct <- rep(c(rep(0, times = 10), rep(1, times = 10), 
+                     rep(0, times = 10), rep(1, times = 10)), times = 16)
+training <- rep(0, times = 640)
+preview <- c(rep("long", times = 80), rep("short", times = 80), rep("long", times = 80),
+             rep("short", times = 80), rep("long", times = 80), rep("short", times = 80),
+             rep("long", times = 80), rep("short", times = 80))
+last_change <- rep(c(rep(1, times = 80*0.25), rep(0, times = 80*0.75)), times = 8)
+
+experimental_conditions <- cbind(trial, block, subblock, dependence, pertur_strength, reward_upper, 
+                          reward_lower, pert_direct, training, preview, last_change)
+
+total_conditions <- rbind(practice_conditions, experimental_conditions)
+
+total_conditions <- as.data.frame(total_conditions)
+
+total_conditions %>% filter(training == 0) %>% group_by(preview, block, 
+                                                        dependence, pert_direct, last_change,
+                                                        reward_upper) %>% 
+  summarise(count = n()) %>% View()
+
+write.table(total_conditions, file = "../Exp_Conditions_Infrequent.csv", sep = ";", 
+            fileEncoding = "UTF-8", row.names = F)

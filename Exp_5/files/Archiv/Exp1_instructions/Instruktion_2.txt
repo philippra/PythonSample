@@ -1,0 +1,3 @@
+Jeder Durchgang beginnt mit dem Vogel auf der mittleren Bahn. Nach einer kurzen Wartezeit fliegt der Vogel los und wird dann auf seiner Bahn von einem zufälligen Wind entweder hin zur oberen oder unteren Bahn geweht (siehe rote Pfeile auf dem Bild).
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

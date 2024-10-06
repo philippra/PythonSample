@@ -1,0 +1,5 @@
+Willkommen zum Experiment! Bitte nimm Dir kurz Zeit, um die folgenden Hinweise und Anweisungen zu lesen.
+
+Deine Aufgabe in diesem Experiment wird es sein, einen Vogel (gelb) aus der Vogelperspektive über eine von drei horizontalen Bahnen (weiß) zu steuern und möglichst viele Punkte durch das Einsammeln von Sternen zu ergattern. 
+
+Drücke die Leertaste, um fortzufahren. Drücke die Esc-Taste, um das Experiment abzubrechen.

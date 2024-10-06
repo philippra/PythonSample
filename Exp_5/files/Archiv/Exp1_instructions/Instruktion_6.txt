@@ -1,0 +1,3 @@
+Du kannst entweder auf die obere (blauer Pfeil) oder untere Bahn (grüner Pfeil) springen, indem Du Deine Maus von Dir weg nach vorne (blauer Pfeil) bzw. zu Dir hin nach hinten (grüner Pfeil) bewegst. Beachte, dass Du erst nach Passieren der zwei Hindernisse auf der oberen und unteren Bahn springen kannst.
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

@@ -1,0 +1,3 @@
+In jedem Durchgang erscheinen mehrere Hindernisse (gefährliche Miezen!). Zunächst erscheinen zwei Hindernisse auf der oberen und der unteren Bahn, die Du auf der mittleren Bahn passieren musst.
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

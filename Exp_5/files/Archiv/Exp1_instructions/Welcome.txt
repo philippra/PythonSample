@@ -1,0 +1,32 @@
+Willkommen zum Experiment! Bitte nimm Dir kurz Zeit, um die folgenden Hinweise und Anweisungen zu lesen.
+
+In diesem Experiment möchten wir die genauen Vorgänge und Mechanismen bei der Ausführung von zwei simultanen Aufgaben untersuchen.
+
+Deine Aufgabe wird es sein, einen Vogel über eine von drei horizontalen Bahnen zu steuern und möglichst viele Punkte durch das Einsammeln von Sternen zu sammeln. 
+
+Jeder Durchgang beginnt mit dem Vogel auf der mittleren Bahn. Nach einer kurzen Wartezeit fliegt der Vogel los und wird dann auf seiner Bahn von einem zufälligen Wind entweder nach oben oder nach unten geweht. 
+
+Kommt der Vogel dabei zu weit von seiner Bahn ab, fällt er hinunter und Du verlierst 100 Punkte. Du kannst dem Wind entgegenwirken und die Position des Vogels korrigieren, indem Du das Mausrad in die entgegengesetzte Richtung des Windes bewegst.
+
+In jedem Durchgang erscheinen mehrere Hindernisse (gefährliche Miezen!). Zunächst erscheinen zwei Hindernisse auf der oberen und der unteren Bahn, die Du auf der mittleren Bahn passieren musst. 
+
+Kurz darauf folgt auf der mittleren Bahn ein drittes Hindernis. Diesem musst Du ausweichen, da Du sonst gefressen wirst und 100 Punkte verlierst. 
+
+Du kannst entweder auf die obere oder untere Bahn springen, indem Du Deine Maus von Dir weg nach vorne bzw. zu Dir hin nach hinten bewegst. Beachte, dass du erst nach den zwei Hindernissen auf der oberen und der unteren Bahn springen kannst.
+
+Auf der oberen und der unteren Bahn erscheinen kurz bevor Du springen musst zwei Sterne. Durch das Einsammeln dieser Sterne erhälst Du Punkte, die ebenfalls als Zahl über bzw. unter dem Stern dargestellt werden. Versuche stets, den Stern einzusammeln, der Dir am meisten Punkte gewährt. 
+
+In manchen Versuchsblöcken beeinflusst die Orientierung des Vogels auf der mittleren Bahn sein Sprungverhalten. Dies wird dadurch angezeigt, dass sich der Vogel in die Richtung neigt, in die er leichter springen kann. In diesem Fall muss Du Deine Maus weniger bewegen, um in diese Richtung zu springen. Für einen Sprung in die entgegengesetzte Richtung musst Du Deine Maus entsprechend mehr bewegen. Am linken Rand des Bildschirms zeigt dir eine "Power-Bar" an, in welche Richtung der Vogel momentan leichter springen könnte. Diese ist zunächst rot gefärbt, färbt sich jedoch grün, wenn der Vogel fast einen Sprung macht.
+
+Setze Dich bitte für die Dauer des gesamten Versuch mittig und in entspannter aufrechter Haltung ca. 60 cm vor Deinen Bildschirm. Sorge bitte zudem dafür, dass Du um Deine Maus einen Bewegungsspielraum von mindestens 20cm nach vorne und nach hinten hast. Damit Du in jedem Durchgang einen Sprung nach oben oder unten ausführen kannst und z.B. nicht durch die Tischkante oder sonstige Objekte an einem Sprung in eine bestimmte Richtung gehindert wirst, ist es ebenfalls wichtig, dass Du Deine Hand und Deine Maus nach jedem Durchgang in eine Ausgangsposition bringst, die Dir stets beide Sprungrichtungen ermöglicht. Nutze dafür am besten die kurze Wartephase am Anfang jedes Durchgangs.
+
+Zwischen den Versuchsblöcken kannst Du selbstverständlich Pausen einlegen, falls Du diese benötigen solltest.
+
+Falls Deine Maus eine Taste besitzt, um die DPI-Einstellungen und somit die Maussensitivität zu verändern, betätige diese bitte nicht während des Versuchs. Verwende einfach die Einstellung, die Du auch sonst beim alltäglichen Gebrauch nutzt.
+
+Wenn Du eine Sehschwäche hast und im Alltag eine Sehhilfe (Brille, Kontaktlinsen etc.) benötigst, lass diese bitte während des gesamten Experiments aufgesetzt.
+
+Du kannst den Versuch natürlich jederzeit durch das Drücken der ESC-Taste abbrechen; auch in diesem Fall wäre es für uns jedoch sehr hilfreich, wenn Du uns die zip-Datei mit den Ergebnissen bis zum Zeitpunkt des Abbruchs über SONA zuschickst. 
+
+Drücke die Leertaste, um fortzufahren.
+

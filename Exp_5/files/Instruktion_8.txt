@@ -1,0 +1,15 @@
+Hier sind noch einmal die wichtigsten Punkte zum Versuch auf einen Blick zusammengefasst:
+
+- Du steuerst einen Vogel, der sich über eine von drei Flugbahnen bewegt.
+
+- Der Vogel wird bei seinem Flug von einem Wind beeinträchtigt, den Du mit dem Mausrad ausgleichst. Die Windrichtung ändert sich jede Sekunde. Der dritte Windwechsel ist jedoch unsicher. In den Übungsblöcken wirst Du informiert, wie oft der Windwechsel stattfindet.
+
+- Nach einiger Zeit erscheinen Objekte auf den Bahnen. Die Punktzahlen, die Du für das Einsammeln der Sterne erhältst, erscheinen rechts ober- bzw. unterhalb des Vogels.
+
+- Weiche dem Hindernis auf der mittleren Bahn durch einen Sprung aus, indem Du Deine Maus nach vorne bzw. nach hinten bewegst. Bewege die Maus nicht, bevor Du die obere und untere Katze passiert hast.
+
+- Sammle so viele Punkte wie möglich durch das Einsammeln der Sterne! Bitte entscheide Dich möglichst für eine Sprungrichtung, sobald die Punktzahlen sichtbar sind. Verzögere Deine Entscheidung bitte nicht.
+
+- Wende bitte keine monotonen Strategien an (z.B. immer nur nach oben zu springen); wir behalten uns vor, Teilnehmende in diesen Fällen von der Teilnahmekompensation auszuschließen.
+
+Wenn Du alles verstanden hast, drücke bitte die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die ESC-Taste, um das Experiment abzubrechen.

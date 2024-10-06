@@ -1,0 +1,3 @@
+Auf der oberen und der unteren Bahn erscheinen kurz bevor Du springen musst zwei Sterne. Durch das Einsammeln dieser Sterne erhälst Du Punkte, die ebenfalls als Zahl über bzw. unter dem Stern dargestellt werden. In manchen Durchgängen erscheint auf der oberen oder unteren Bahn anstelle eines Sterns ein weiteres Hindernis und auf der anderen Bahn ein Stern. Versuche, so viele Punkte wie möglich zu sammeln!
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

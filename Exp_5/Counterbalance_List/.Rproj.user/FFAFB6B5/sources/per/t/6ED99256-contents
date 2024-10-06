@@ -1,0 +1,23 @@
+set.seed(1234)
+
+id <- seq(1:64)
+counterbalance <- rep(0, times = 64)
+
+counter <- 1
+for (i in 1:(length(id) / 2)){
+  cb_group <- c(1, 2)
+  cb_group <- sample(cb_group)
+  
+  counterbalance[counter] <- cb_group[1]
+  counter <- counter + 1
+  counterbalance[counter] <- cb_group[2]
+  counter <- counter + 1
+  
+}
+
+counterbalance_list <- cbind(id, counterbalance)
+
+colnames(counterbalance_list) <- c("Versuchspersonennummer", "Counterbalance-Bedingung")
+
+write.table(counterbalance_list, "counterbalance_list.csv", sep = ",",
+            row.names = F)

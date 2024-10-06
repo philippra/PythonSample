@@ -1,0 +1,3 @@
+Nachdem Du die beiden Katzen passiert hast, kannst Du auf die untere Bahn oder obere Bahn springen, indem Du Deine Computermaus nach hinten (grüne Pfeile) bzw. nach vorne bewegst (blaue Pfeile). Bewege Deine Computermaus nicht davor, da dies als Fehler gezählt wird. Die Position des Vogels auf der Bahn beeinflusst je nach Versuchsblock, wie weit Du die Computermaus für einen Sprung nach vorne oder hinten bewegen musst.
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

@@ -1,0 +1,3 @@
+Nachdem Du auf die obere oder untere Bahn gesprungen bist, musst Du immer noch auf den Wind achten und diesen mit dem Mausrad ausgleichen, damit der Vogel nicht von der Bahn abkommt. Den Stern auf der Bahn sammelst Du automatisch ein.
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

@@ -1,0 +1,3 @@
+Jeder Durchgang beginnt mit dem Vogel auf der mittleren Bahn. Nach einer kurzen Wartezeit fliegt der Vogel los, er wird dann von einem zufälligen Wind entweder hin zur oberen oder unteren Bahn geweht (rote Pfeile). Die Richtung des Winds ändert sich jede Sekunde. Manchmal ist eine Richtungsänderung allerdings nicht zu 100% sicher (orangene Pfeile).
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

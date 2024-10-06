@@ -1,0 +1,3 @@
+Nach einiger Zeit erscheinen verschiedene Objekte auf den Bahnen. Die Katzen stellen Hindernisse dar, die Du passieren (die beiden Katzen auf der oberen bzw. unteren Bahn) bzw. denen Du ausweichen musst (mittlere Katze). Die Sterne stellen die Belohnungen dar, zwischen denen Du wählen kannst. Visuell sind die Sterne stets gleich groß. Die Punktzahlen, die Du für die Sterne erhältst, werden rechts oberhalb und rechts unterhalb des Vogels dargestellt.
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

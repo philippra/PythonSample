@@ -1,0 +1,3 @@
+Kommt der Vogel dabei zu weit von seiner aktuellen Flugbahn ab, stürzt er ab und Du verlierst 50 Punkte. Du kannst dem Wind (roter Pfeil) entgegenwirken und die Position des Vogels korrigieren, indem Du das Mausrad in die entgegengesetzte Richtung des Windes bewegst (grüner Pfeil).
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

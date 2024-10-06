@@ -1,0 +1,3 @@
+Wird der Vogel vom Wind zu stark weggeweht, stürzt er ab und Du verlierst 30 Punkte. Du kannst dem Wind (roter Pfeil) entgegenwirken und die Position des Vogels kontrollieren, indem Du das Mausrad in die entgegengesetzte Richtung des Windes bewegst (grüner Pfeil). Nach einem Richtungswechsel des Winds ändert sich daher auch die notwendige Scrollrichtung. 
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.

@@ -1,0 +1,3 @@
+In manchen Versuchsblöcken beeinflusst die Orientierung des Vogels auf der mittleren Bahn sein Sprungverhalten. Dies wird dadurch angezeigt, dass sich der Vogel in die Richtung neigt, in die er leichter springen kann. In diesem Fall muss Du Deine Maus weniger bewegen, um in die Neigungsrichtung zu springen (grüne Pfeile). Für einen Sprung in die entgegengesetzte Richtung musst Du Deine Maus entsprechend mehr bewegen (rote Pfeile).
+
+Drücke die Leertaste, um fortzufahren. Drücke die R-Taste, um zum vorherigen Bildschirm zu springen. Drücke die Esc-Taste, um das Experiment abzubrechen.
